@@ -1,6 +1,7 @@
 # learning-babel-webpack
 
-Babel과 Webpack의 기본 동작을 이해하기 위한 실습 프로젝트로 
+**모던 자바스크립트 Deep Dive: 자바스크립트의 기본 개념과 동작 원리** 49장을 직접 실습한 프로젝트
+
 React나 TypeScript 없이 순수 JavaScript만 사용해서, 번들러와 트랜스파일러가 각각 어떤 역할을 하는지 집중적으로 학습했다.
 
 ## 기술 스택
