@@ -1,4 +1,3 @@
-import "@babel/polyfill";
 import { pi, power, Foo } from "./lib";
 
 console.log(pi);
